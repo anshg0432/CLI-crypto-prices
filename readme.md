@@ -38,8 +38,8 @@ coindex check price --coin=<crypto_name> --cur=<currency_name>
 ## Options
 CryptoPrice CLI supports the following options:
 
--h, --help: Display help information.
--v, --version: Display the current version of CryptoPrice CLI.
+-h, --help: Display help information.  
+-v, --version: Display the current version of CryptoPrice CLI.  
 
 
 
