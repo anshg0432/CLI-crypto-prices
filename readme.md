@@ -26,7 +26,7 @@ coindex key set
 
 **Enter the API key**
 ```bash
-? Enter API keyhttps://nomics.com <API_key>
+? Enter API key <API_endpoint> <API_key>
 ```
 
 **Fetch crypto price**
